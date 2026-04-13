@@ -1,0 +1,1 @@
+digraph AVL {node [shape=circle];30->17;30->55;17->15;17->22;15->10;15->16;22->20;22->25;55->45;55->60;45->40;45->50;60->57;null [style=invis];60-> null [style=invis];}
